@@ -1,0 +1,6 @@
+framework module Pods_XCRollLabel {
+  umbrella header "Pods-XCRollLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
